@@ -10,6 +10,8 @@
     "ejs": "*",
     "less-middleware": "*",
     "socket.io": "~0.9.16",
-    "coffee-script": "~1.6.3"
+    "coffee-script": "~1.6.3",
+    "validator": "~1.5.1",
+    "nodemailer": "~0.5.2"
   }
 }

@@ -1,3 +1,4 @@
+#node generated files
 lib-cov
 *.seed
 *.log
@@ -6,10 +7,16 @@ lib-cov
 *.out
 *.pid
 *.gz
-
 pids
 logs
 results
 node_modules
-
 npm-debug.log
+
+#ide generated files
+.idea
+
+*.map
+
+#compiled files to exclude
+*.js
